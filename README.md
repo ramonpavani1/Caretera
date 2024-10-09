@@ -12,7 +12,7 @@ Classificação por Categorias: Registros financeiros podem ser associados a cat
 
 Filtragem por Período: Exibição dos registros por intervalos mensais ou anuais.
 
-Banco de Dados H2: Utilização de banco de dados H2 em memória para armazenar os dados de forma leve e eficiente.
+Banco de Dados MySQL.
 
 
 Endpoints Principais
